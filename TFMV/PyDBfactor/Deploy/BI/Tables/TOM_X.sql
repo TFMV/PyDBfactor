@@ -1,0 +1,3 @@
+CREATE TABLE bi.tom_x (
+  y VARCHAR2(1000 BYTE)
+);
